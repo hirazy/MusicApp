@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "title": "2 Cool 4 Skool",
+            "album": "1st Single Album",
+            "date": "12.06.2013",
+            "total": "9",
+            "time_duration": "1’03”",
+            "favorite": false
+        },
+        {
+            "id": "2",
+            "title": "O!RUL8,2?",
+            "album": "1st Mini album",
+            "date": "11.09.2013",
+            "total": "10",
+            "time_duration": "3’40”",
+            "favorite": false
+        },
+        {
+            "id": "3",
+            "title": "Skool Luv Affair",
+            "album": "2nd Mini Album",
+            "date": "12.02.2014",
+            "total": "10",
+            "time_duration": "2’11”",
+            "favorite": false
+        },
+        {
+            "id": "4",
+            "title": "Skool Luv Affair: Special Addition",
+            "album": "REPACKAGE",
+            "date": "13.05.2014",
+            "total": "12",
+            "time_duration": "3’41”",
+            "favorite": false
+        },
+        {
+            "id": "5",
+            "title": "No More Dream (Japanese album)",
+            "album": "1st Japan Single Album",
+            "date": "06.04.2014",
+            "total": "3",
+            "time_duration": "3’52”",
+            "favorite": false
+        },
+        {
+            "id": "6",
+            "title": "BOY IN LUV (Japanese album)",
+            "album": "2nd Japan Single Album",
+            "date": "16.07.2014",
+            "total": "3",
+            "time_duration": "1’10”",
+            "favorite": false
+        },
+        {
+            "id": "7",
+            "title": "Dark & Wild",
+            "album": "1st Album",
+            "date": "19.08.2014",
+            "total": "14",
+            "time_duration": "3’29”",
+            "favorite": false
+        },
+        {
+            "id": "8",
+            "title": "Danger (Japanese album)",
+            "album": "3rd Japan Single Album",
+            "date": "19.11.2014",
+            "total": "3",
+            "time_duration": "3’50”",
+            "favorite": false
+        },
+        {
+            "id": "9",
+            "title": "Wake Up (Japanese album)",
+            "album": "1st Japanese Album",
+            "date": "24.12.2014",
+            "total": "13",
+            "time_duration": "4’07”",
+            "favorite": false
+        },
+        {
+            "id": "10",
+            "title": "The Most Beautiful Moment In Life Pt.1 (화양연화)",
+            "album": "3rd Mini Album",
+            "date": "29.04.2015",
+            "total": "9",
+            "time_duration": "4’20”",
+            "favorite": false
+        },
+        {
+            "id": "11",
+            "title": "FOR YOU (Japanese album)",
+            "album": "4th Japan Single Album",
+            "date": "17.06.2015",
+            "total": "3",
+            "time_duration": "2’11”",
+            "favorite": false
+        },
+        {
+            "id": "12",
+            "title": "The Most Beautiful Moment In Life Pt.2 (화양연화)",
+            "album": "4th Mini Album",
+            "date": "30.11.2015",
+            "total": "9",
+            "time_duration": "4’06”",
+            "favorite": false
+        },
+        {
+            "id": "13",
+            "title": "I NEED U (Japanese album)",
+            "album": "5th Japan Single Album",
+            "date": "08.12.2015",
+            "total": "3",
+            "time_duration": "3’25”",
+            "favorite": false
+        },
+        {
+            "id": "14",
+            "title": "RUN (Japanese album)",
+            "album": "6th Japan Single Album",
+            "date": "15.03.2016",
+            "total": "3",
+            "time_duration": "1’26”",
+            "favorite": false
+        },
+        {
+            "id": "15",
+            "title": "The Most Beautiful Moment In Life: Young Forever",
+            "album": "Special Album (CD 1)",
+            "date": "02.05.2016",
+            "total": "12",
+            "time_duration": "2’58”",
+            "favorite": false
+        },
+        {
+            "id": "16",
+            "title": "The Most Beautiful Moment In Life: Young Forever",
+            "album": "Special Album (CD 2)",
+            "date": "02.05.2016",
+            "total": "11",
+            "time_duration": "3’51”",
+            "favorite": false
+        },
+        {
+            "id": "17",
+            "title": "Youth (Japanese album)",
+            "album": "2nd Japanese Album",
+            "date": "07.09.2016",
+            "total": "13",
+            "time_duration": "4’02”",
+            "favorite": false
+        },
+        {
+            "id": "18",
+            "title": "WINGS",
+            "album": "2nd Album",
+            "date": "10.10.2016",
+            "total": "15",
+            "time_duration": "3’59”",
+            "favorite": false
+        },
+        {
+            "id": "19",
+            "title": "You Never Walk Alone",
+            "album": "EXTENSION",
+            "date": "13.02.2017",
+            "total": "18",
+            "time_duration": "4’21”",
+            "favorite": false
+        },
+        {
+            "id": "20",
+            "title": "Blood Sweat & Tears (Japanese Album)",
+            "album": "7th Japan Single Album",
+            "date": "10.05.2017",
+            "total": "3",
+            "time_duration": "4’48”",
+            "favorite": false
+        },
+        {
+            "id": "21",
+            "title": "Love Yourself: 承 Her",
+            "album": "5th Mini Album",
+            "date": "18.09.2017",
+            "total": "11",
+            "time_duration": "3’58”",
+            "favorite": false
+        },
+        {
+            "id": "22",
+            "title": "MIC DROP / DNA / CRYSTAL SNOW (Japanese album)",
+            "album": "8th Japan Single Album",
+            "date": "06.12.2017",
+            "total": "3",
+            "time_duration": "3’56”",
+            "favorite": false
+        },
+        {
+            "id": "23",
+            "title": "Face Yourself (Japanese album)",
+            "album": "3rd Japanese Album",
+            "date": "04.04.2018",
+            "total": "12",
+            "time_duration": "2’02”",
+            "favorite": false
+        },
+        {
+            "id": "24",
+            "title": "Love Yourself: 轉 Tear",
+            "album": "3rd Album",
+            "date": "18.05.2018",
+            "total": "11",
+            "time_duration": "4’01”",
+            "favorite": false
+        },
+        {
+            "id": "25",
+            "title": "Love Yourself: 结 Answer",
+            "album": "REPACKAGE A",
+            "date": "24.08.2018",
+            "total": "16",
+            "time_duration": "3'42”",
+            "favorite": false
+        },
+        {
+            "id": "26",
+            "title": "Love Yourself: 结 Answer",
+            "album": "REPACKAGE B",
+            "date": "24.08.2018",
+            "total": "10",
+            "time_duration": "3’51”",
+            "favorite": false
+        },
+        {
+            "id": "27",
+            "title": "FAKE LOVE/Airplane Pt.2 (Japanese Album)",
+            "album": "9th Japan Single Album",
+            "date": "07.11.2018",
+            "total": "4",
+            "time_duration": "4’08”",
+            "favorite": false
+        },
+        {
+            "id": "28",
+            "title": "Map of the Soul: Persona",
+            "album": "6th Mini Album",
+            "date": "12.04.2019",
+            "total": "7",
+            "time_duration": "3’56”",
+            "favorite": false
+        },
+        {
+            "id": "29",
+            "title": "Lights/Boy With Luv (Japanese album)",
+            "album": "10th Japan Single Album",
+            "date": "03.07.2019",
+            "total": "3",
+            "time_duration": "3’29”",
+            "favorite": false
+        },
+        {
+            "id": "30",
+            "title": "Map of the Soul: 7",
+            "album": "4th Album",
+            "date": "21.02.2020",
+            "total": "19",
+            "time_duration": "4’00”",
+            "favorite": false
+        },
+        {
+            "id": "31",
+            "title": "BTS WORLD",
+            "album": "OST’s",
+            "date": "28.06.2019",
+            "total": "4",
+            "time_duration": "2’45”",
+            "favorite": false
+        },
+        {
+            "id": "32",
+            "title": "Drama",
+            "album": "OST’s",
+            "date": "20.12.2016",
+            "total": "2",
+            "time_duration": "4’05”",
+            "favorite": false
+        },
+        {
+            "id": "33",
+            "title": "BTS Collab",
+            "album": "Collaborations",
+            "date": "06.01.2020",
+            "total": "4",
+            "time_duration": "4’25”",
+            "favorite": false
+        },
+        {
+            "id": "34",
+            "title": "Agust D",
+            "album": "SUGA/Agust D",
+            "date": "16.08.2016",
+            "total": "20",
+            "time_duration": "4’17”",
+            "favorite": false
+        },
+        {
+            "id": "35",
+            "title": "Hope World",
+            "album": "J-Hope",
+            "date": "02.03.2018",
+            "total": "7",
+            "time_duration": "4’15”",
+            "favorite": false
+        },
+        {
+            "id": "36",
+            "title": "Other Song",
+            "album": "Songs",
+            "date": "09.06.2017",
+            "total": "10",
+            "time_duration": "4’24”",
+            "favorite": false
+        },
+        {
+            "id": "37",
+            "title": "Map Of The Soul 7:The Journey",
+            "album": "Studio album by BTS",
+            "date": "15.07.2020",
+            "total": "1",
+            "time_duration": "4’27”",
+            "favorite": false
+        },
+        {
+            "id": "38",
+            "title": "Dynamite",
+            "album": "English Singles",
+            "date": "21.08.2020",
+            "total": "1",
+            "time_duration": "0’41”",
+            "favorite": false
+        }
+    ]
+}
